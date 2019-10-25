@@ -28,6 +28,8 @@ def reduce_to_total(source_array, starting_point)
   return new
 end
 
+
+
 def map_to_double(source_array)
   new = []
   i = 0 
