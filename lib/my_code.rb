@@ -38,6 +38,7 @@ def reduce_to_all_true(source_array)
 end
 
 
+
 def map_to_double(source_array)
   new = []
   i = 0 
