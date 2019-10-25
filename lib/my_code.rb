@@ -18,6 +18,9 @@ def map_to_no_change(source_array)
   return new
 end
 
+def reduce_to_total(source_array, starting_point)
+  
+
 def map_to_double(source_array)
   new = []
   i = 0 
